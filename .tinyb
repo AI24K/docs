@@ -1,0 +1,11 @@
+{
+    "host": "https://api.us-east.tinybird.co",
+    "id": "08e3fb38-b106-4a5c-83c9-0b6d4d408d06",
+    "name": "slyyyde",
+    "scope": "admin",
+    "token": "p.eyJ1IjogIjA4ZTNmYjM4LWIxMDYtNGE1Yy04M2M5LTBiNmQ0ZDQwOGQwNiIsICJpZCI6ICJiZTJiZmMwMi0xZjk1LTRhNWMtOTg3NS0wNzgyYTgzMjJjZTIiLCAiaG9zdCI6ICJ1c19lYXN0In0.rA6h6KCGU96V0UfQOOiY32IKBjkNxRufCxrL3vc5OU0",
+    "tokens": {
+        "https://api.us-east.tinybird.co": "p.eyJ1IjogIjA4ZTNmYjM4LWIxMDYtNGE1Yy04M2M5LTBiNmQ0ZDQwOGQwNiIsICJpZCI6ICJiZTJiZmMwMi0xZjk1LTRhNWMtOTg3NS0wNzgyYTgzMjJjZTIiLCAiaG9zdCI6ICJ1c19lYXN0In0.rA6h6KCGU96V0UfQOOiY32IKBjkNxRufCxrL3vc5OU0"
+    },
+    "version": "5.13.3"
+}
